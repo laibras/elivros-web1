@@ -11,7 +11,7 @@ public final class Config {
     public static final String JDBC_DRIVER = "org.postgresql.Driver";
     public static final String JDBC_URL = "jdbc:postgresql://localhost:5432/elivros?useUnicode=true&characterEncoding=UTF-8";
     public static final String JDBC_USUARIO = "postgres";
-    public static final String JDBC_SENHA = "1325";
+    public static final String JDBC_SENHA = "ufc123";
 
     private Config() {
         
